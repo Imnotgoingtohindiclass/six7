@@ -6,11 +6,11 @@ i actually started this in august but i had to study for prelims so i left it un
 tee hee hee
 
 heres the syntax for six7:
-67 Increment cell value 
-76 Decrement cell value 
-6767 Move pointer right 
-7676 Move pointer left 
-666777 Input character 
-777666 Output character 
-6776 Start loop 
+67 Increment cell value
+76 Decrement cell value
+6767 Move pointer right
+7676 Move pointer left
+666777 Input character
+777666 Output character
+6776 Start loop
 7667 End loop
